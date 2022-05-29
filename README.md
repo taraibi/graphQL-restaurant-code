@@ -1,13 +1,11 @@
-# GraphQL Restaurant Data Exercise 🍽
+# GraphQL Restaurant
 
-Sample API (GraphQL) queries and [CRUD](https://rapidapi.com/blog/api-glossary/crud/) implementaion solution.
-
-## Tasks:
+## Objectives
 
 - Set up GraphQL for a restaurant data.
 - Add mutations to get and update these data.
 
-## List of GraphQL queries used:
+## queries used:
 
 - restaurant: Gets a single restaurant based on a provided ID. 
 - restaurants: Gets a list of all restaurants. 
@@ -54,7 +52,7 @@ query getrestaurants {
 ## Installation
 
 - `npm install`
-- Run the index.js file on `http://localhost:5500/graphql` in order to make queries with GraphQL.
+- `node index.js`
 
 ## Usage
 
