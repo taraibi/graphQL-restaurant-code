@@ -54,13 +54,8 @@ query getrestaurants {
 - `npm install`
 - `node index.js`
 
-## Usage
-
-<img src = 'https://raw.githubusercontent.com/anyapages/graphql-restaurant-data-exercise/main/image.png?token=ATDMTEB7ZUUGO34UBGIMEGTBLLXHK' width="550" height="440"> 
-
-## Learn More
-
-To learn GraphQL, queries and mutations, check out the [GraphQL documentation](https://graphql.org/), [Queries and Mutations](https://graphql.org/learn/queries/).
+## Roadmap
+No further updates planned
 
 ## License
 
